@@ -13,3 +13,8 @@ Documenting my daily progress through Python fundamentals, Data Structures, and 
 - **Scripts Built:**
   - `03_math_and_geometry.py`: Shape and geometry calculation using the `math` library.
   - `04_conditionals_calculator.py`: Interactive calculator using conditional statements and input validation.
+
+  ## Day 3: Logical Operators & Multi-Condition Flow
+- **Topics Covered:** Logical operators (`and`, `or`, `not`), compound boolean expressions, and weighted score calculations.
+- **Scripts Built:**
+  - `05_eligibility_evaluator.py`: Multi-factor evaluation engine demonstrating nested conditions and boolean flags.
