@@ -18,3 +18,6 @@ Documenting my daily progress through Python fundamentals, Data Structures, and 
 - **Topics Covered:** Logical operators (`and`, `or`, `not`), compound boolean expressions, and weighted score calculations.
 - **Scripts Built:**
   - `05_eligibility_evaluator.py`: Multi-factor evaluation engine demonstrating nested conditions and boolean flags.
+
+Day 4: Streak Saver
+- Built `06_streak_saver.py` to review `if/elif` and `and/not` operators while securing the daily commit on a low-energy day.
