@@ -21,3 +21,9 @@ Documenting my daily progress through Python fundamentals, Data Structures, and 
 
 Day 4: Streak Saver
 - Built `06_streak_saver.py` to review `if/elif` and `and/not` operators while securing the daily commit on a low-energy day.
+
+## Day 5: String Methods, Conditional Expressions & Input Validation
+- **Topics Covered:** Data cleaning and validation using string built-ins (`strip`, `capitalize`, `len`, `count`, `isalnum`, `isalpha`), combining conditional logic with string methods to enforce strict rules, and one-line conditional expressions (ternary operators).
+- **Scripts Built:**
+  - `07_data_cleaner.py`: A mini data-preprocessing tool that cleans messy user inputs and categorizes them.
+  - `08_input_validator.py`: A registration script that checks user input for length, spaces, and valid character types.
