@@ -14,7 +14,7 @@ Documenting my daily progress through Python fundamentals, Data Structures, and 
   - `03_math_and_geometry.py`: Shape and geometry calculation using the `math` library.
   - `04_conditionals_calculator.py`: Interactive calculator using conditional statements and input validation.
 
-  ## Day 3: Logical Operators & Multi-Condition Flow
+## Day 3: Logical Operators & Multi-Condition Flow
 - **Topics Covered:** Logical operators (`and`, `or`, `not`), compound boolean expressions, and weighted score calculations.
 - **Scripts Built:**
   - `05_eligibility_evaluator.py`: Multi-factor evaluation engine demonstrating nested conditions and boolean flags.
@@ -28,7 +28,7 @@ Documenting my daily progress through Python fundamentals, Data Structures, and 
   - `07_data_cleaner.py`: A mini data-preprocessing tool that cleans messy user inputs and categorizes them.
   - `08_input_validator.py`: A registration script that checks user input for length, spaces, and valid character types.
 
-  ## Day 6: Streak Maintenance & String Searching
+## Day 6: Streak Maintenance & String Searching
 - **Topics Covered:** Habit building, string manipulation (`strip`, `lower`), and substring searching using the `in` keyword.
 - **Scripts Built:**
   - `09_rest_day_logger.py`: A minimal input-evaluation script to secure the daily commit on a high-fatigue day.
