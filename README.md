@@ -27,3 +27,8 @@ Day 4: Streak Saver
 - **Scripts Built:**
   - `07_data_cleaner.py`: A mini data-preprocessing tool that cleans messy user inputs and categorizes them.
   - `08_input_validator.py`: A registration script that checks user input for length, spaces, and valid character types.
+
+  ## Day 6: Streak Maintenance & String Searching
+- **Topics Covered:** Habit building, string manipulation (`strip`, `lower`), and substring searching using the `in` keyword.
+- **Scripts Built:**
+  - `09_rest_day_logger.py`: A minimal input-evaluation script to secure the daily commit on a high-fatigue day.
