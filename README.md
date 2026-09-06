@@ -32,3 +32,8 @@ Documenting my daily progress through Python fundamentals, Data Structures, and 
 - **Topics Covered:** Habit building, string manipulation (`strip`, `lower`), and substring searching using the `in` keyword.
 - **Scripts Built:**
   - `09_rest_day_logger.py`: A minimal input-evaluation script to secure the daily commit on a high-fatigue day.
+
+## Day 7: Sunday Reset & UI Formatting
+- **Topics Covered:** String multiplication for basic UI formatting and conditional review.
+- **Scripts Built:**
+  - `10_sunday_reset.py`: A quick Sunday night checklist script to maintain the Git streak and prepare for the academic week.
